@@ -2,7 +2,7 @@
 <h3 align="center">🌻I'm a curious Jr. iOS Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
-- ⭐️ I’m currently learning UIKit
+- ⭐️ I’m currently working on iOS
 
 - 📒 I sometimes write articles on [https://medium.com/@sevvalalev](https://medium.com/@sevvalalev)
 
